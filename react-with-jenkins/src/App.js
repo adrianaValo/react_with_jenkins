@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h2>Welcome to React-JS with Jenkins</h2>
+      <h2>Welcome to React-JS with Jenkins (build) </h2>
     </div>
   );
 }
